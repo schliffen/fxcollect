@@ -1,0 +1,3 @@
+/home/ali/Projects/fxcollect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ali/Projects/fxcollect/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ali/Projects/fxcollect/cmake-build-debug/CMakeFiles/fxcollect.dir

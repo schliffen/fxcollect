@@ -93,4 +93,4 @@ COPY . /home/nonroot/fxcollect/
 
 RUN chown -R nonroot:nonroot /home/nonroot; chmod +x /home/nonroot/fxcollect/runMainDocker.sh;
 
-ENTRYPOINT ["/home/nonroot/fxcollect/runMainDocker.sh"] 
+#ENTRYPOINT ["/home/nonroot/fxcollect/runMainDocker.sh"] 
